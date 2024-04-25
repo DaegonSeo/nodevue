@@ -1,0 +1,19 @@
+{
+  "name": "nodevue",
+  "version": "0.0.0",
+  "description": "test sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DaegonSeo/nodevue.git"
+  },
+  "author": "daegon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaegonSeo/nodevue/issues"
+  },
+  "homepage": "https://github.com/DaegonSeo/nodevue#readme"
+}
